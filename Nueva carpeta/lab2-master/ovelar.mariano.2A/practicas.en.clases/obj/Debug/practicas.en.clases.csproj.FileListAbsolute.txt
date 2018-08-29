@@ -1,0 +1,7 @@
+D:\ovelar.mariano.2A\practicas.en.clases\obj\Debug\practicas.en.clases.csprojAssemblyReference.cache
+D:\ovelar.mariano.2A\practicas.en.clases\obj\Debug\practicas.en.clases.csproj.CoreCompileInputs.cache
+D:\ovelar.mariano.2A\practicas.en.clases\bin\Debug\practicas.en.clases.exe.config
+D:\ovelar.mariano.2A\practicas.en.clases\bin\Debug\practicas.en.clases.exe
+D:\ovelar.mariano.2A\practicas.en.clases\bin\Debug\practicas.en.clases.pdb
+D:\ovelar.mariano.2A\practicas.en.clases\obj\Debug\practicas.en.clases.exe
+D:\ovelar.mariano.2A\practicas.en.clases\obj\Debug\practicas.en.clases.pdb
